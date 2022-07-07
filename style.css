@@ -32,8 +32,9 @@ body{
     background-color: black;
 }
 #bt{
+    color: aliceblue;
     text-align: center;
-    background-color: coral;
+    background-color: rgb(234, 41, 7);
     margin-left: 600px;
     margin-right: 600px;
     height: 50px;
@@ -41,6 +42,50 @@ body{
     border-radius: 6px;
     font-weight: 700;
     font-size: 25px;
+     
     
     
+}
+.dt{
+    text-align: center;
+    font-size: 70px;
+    margin-top: 10%;
+
+}
+.pl{
+    text-align: center;
+    width: 40%;
+    padding-left: 30%;
+    padding-bottom: 30px;
+}
+.ammount{
+    color: azure;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: gray;
+    margin-left: 45%;
+    margin-right: 45%;
+    height: 50px;
+    padding-top: 10px;
+
+    
+
+    
+    
+    
+}
+
+#red{
+    color: white;
+    text-align: center;
+    border: solid red;
+    background-color: rgb(204, 57, 57);
+    margin-left: 45%;
+    margin-right: 45%;
+    height: 50px;
+    padding-top: 10px;
+}
+.middle{
+    color: rgb(128, 128, 128);
+    text-align: center;
 }
